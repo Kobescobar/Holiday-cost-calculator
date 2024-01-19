@@ -1,2 +1,4 @@
 # Holiday-cost-calculator
-This program calculates the holiday cost of the user
+This program calculates a user holiday.
+This program was developeed as part of the tasks for the Data Science bootcamp with HyperionDev. The program calculates a user’s total holiday cost, which includes the
+plane cost, hotel cost, and car-rental cost. The program demonstrates proficiency in defining functions python. 
